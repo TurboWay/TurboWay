@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-![info](https://github-readme-stats.vercel.app/api?username=TurboWay&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![info](https://github-readme-stats.vercel.app/api?username=TurboWay&show_icons=true&count_private=true&hide=prs&theme=default_repocard&rank_icon=github)
 
 ![image](https://github.com/TurboWay/saadeghi/blob/master/dino.gif)
 
